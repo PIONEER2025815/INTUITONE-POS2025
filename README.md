@@ -1,0 +1,2 @@
+# INTUITONE-POS2025
+POS SOFTWARE customisation
